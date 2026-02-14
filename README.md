@@ -1,5 +1,5 @@
 # Java-OOP-Foundations
-This repository contains foundational projects developed during my first five weeks as a Software Engineering (Honors) student at UT Arlington. These exercises focus on Java syntax, control flow, and basic data structures.
+This repository contains foundational projects developed during the first few weeks of my Object Oriented Programming class. These exercises focus on Java syntax, control flow, and basic data structures.
 
 ## Projects
 
